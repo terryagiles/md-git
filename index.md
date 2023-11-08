@@ -22,6 +22,11 @@ string foo = "bar";
 HashSet<string> = new();
 ```
 
+### todo
+- [ ] stuff 1
+- [x] stuff 2
+- [ ] yet more stuff
+
 
 ### head 3
 ![Image of Yakto cat](https://octodex.github.com/images/yaktocat.png)
