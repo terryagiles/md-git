@@ -3,3 +3,4 @@
 ## head 2
 plaintext
 ### head 3
+![Image of Yakto cat](https://octodex.github.com/images/yaktocat.png)
